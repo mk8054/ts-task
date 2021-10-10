@@ -1,0 +1,80 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Mark Zuckerberg",
+      "subordinatesId": [2, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "name": "Sarah Donald",
+      "subordinatesId": [6]
+    },
+    {
+      "id": 3,
+      "name": "Tyler Simpson",
+      "subordinatesId": [7, 8, 9]
+    },
+    {
+      "id": 4,
+      "name": "Bruce Willis",
+      "subordinatesId": []
+    },
+
+    {
+      "id": 5,
+      "name": "Georgina Flangy",
+      "subordinatesId": [10]
+    },
+    {
+      "id": 6,
+      "name": "Cassandra Reynolds",
+      "subordinatesId": [11, 12]
+    },
+    {
+      "id": 7,
+      "name": "Harry Tobs",
+      "subordinatesId": [13]
+    },
+    {
+      "id": 8,
+      "name": "George Carrey",
+      "subordinatesId": []
+    },
+    {
+      "id": 9,
+      "name": "Gary Styles",
+      "subordinatesId": []
+    },
+    {
+      "id": 10,
+      "name": "Sophie Turne",
+      "subordinatesId": []
+    },
+    {
+      "id": 11,
+      "name": "Mary Blue",
+      "subordinatesId": []
+    },
+    {
+      "id": 12,
+      "name": "Bob Saget",
+      "subordinatesId": [14]
+    },
+    {
+      "id": 13,
+      "name": "Thomas Brown",
+      "subordinatesId": []
+    },
+    {
+      "id": 14,
+      "name": "Tina Teff",
+      "subordinatesId": [15]
+    },
+    {
+      "id": 15,
+      "name": "Will Turne",
+      "subordinatesId": []
+    }
+  ]
+}
